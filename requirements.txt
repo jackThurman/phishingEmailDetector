@@ -1,7 +1,10 @@
 pandas
 numpy
 matplotlib
-seaborn
 requests
 scapy
 nltk
+beautifulsoup4
+tensorflow
+keras
+scikit-learn
